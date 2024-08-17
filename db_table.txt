@@ -1,0 +1,11 @@
+database---->sqlite
+
+table name:acn
+fields/cols:
+	acn_acno		int primary key autoincrement
+	acn_name	text
+	acn_pass		text
+	acn_email	text
+	acn_mob		text
+	acn_bal		float
+	acn_opendate	text
